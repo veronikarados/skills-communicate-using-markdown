@@ -11,3 +11,11 @@
 
 $ git init
 This is how I communicate using markdown. It's neat!
+
+
+
+
+This is Step 4: Make a task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
